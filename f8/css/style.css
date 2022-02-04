@@ -1,0 +1,59 @@
+* {
+	padding: 0;
+	margin: 0;
+	background: #302845;
+}
+
+.text {
+	size: 30px;
+	color: #9ac0f5;
+	padding: 10px 50px;
+	margin: 20px 60px;
+	border-left: 7px solid #8c297c;
+}
+
+.box-img {
+	width: 95%;
+	height: 600px;
+	justify-content: space-between;
+	align-items: flex-start;
+	display: flex;
+	flex-direction: row;
+}
+
+.background {
+	width: 350px;
+	height: 110%;
+	background: #1c1e33;
+}
+
+[class*=img] {
+
+}
+
+.img1 {
+	background-image: url(./img/img1.jpg);
+	position: relative;
+}
+
+.img2 {
+	background-image: ;
+
+}
+
+.img3 {
+	background-image: ;
+
+}
+
+.img4 {
+	background-image: ;
+
+}
+
+.img5 {
+	background-image: ;
+
+}
+
+
